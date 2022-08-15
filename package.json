@@ -2,6 +2,6 @@
   "name": "pszponder",
   "version": "1.0.0",
   "bin": {
-    "pszponder": "index.js"
+    "pszponder": "./index.js"
   }
 }
