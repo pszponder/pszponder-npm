@@ -1,6 +1,6 @@
 {
   "name": "pszponder",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Get to know Piotr via `npx pszponder`",
   "bin": {
     "pszponder": "./index.js"
@@ -10,5 +10,11 @@
     "piotr szponder",
     "piotr",
     "szponder"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "pszponder/pszponder-npm",
+  "author": {
+    "name": "Piotr Szponder"
+  }
 }
