@@ -5,5 +5,10 @@
   "bin": {
     "pszponder": "./index.js"
   },
-  "type": "module"
+  "type": "module",
+  "keywords": [
+    "piotr szponder",
+    "piotr",
+    "szponder"
+  ]
 }
